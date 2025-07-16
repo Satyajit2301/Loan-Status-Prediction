@@ -2,14 +2,6 @@
 This project builds a machine learning model using Support Vector Machines that does just that! Using historical data of past applicants, we trained our model to understand patterns and predict whether a new applicant will be approved or not.
 
 
----
-
-
-
-```markdown
-# 🔍 Predicting Loan Approvals with Machine Learning
-
-Ever wondered how banks decide to approve a loan? This project builds a simple machine learning model that predicts whether someone will get a loan based on features like income, education, credit history, and more.
 
 ## 📚 What We Did:
 - Loaded and cleaned the dataset 🧹
